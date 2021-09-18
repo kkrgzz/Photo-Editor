@@ -1,0 +1,17 @@
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\bin\Debug\netcoreapp3.1\photoEditor.exe
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\bin\Debug\netcoreapp3.1\photoEditor.deps.json
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\bin\Debug\netcoreapp3.1\photoEditor.runtimeconfig.json
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\bin\Debug\netcoreapp3.1\photoEditor.runtimeconfig.dev.json
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\bin\Debug\netcoreapp3.1\photoEditor.dll
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\bin\Debug\netcoreapp3.1\photoEditor.pdb
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.csproj.AssemblyReference.cache
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.Form1.resources
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.csproj.GenerateResource.cache
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.AssemblyInfoInputs.cache
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.AssemblyInfo.cs
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.csproj.CoreCompileInputs.cache
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.dll
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.pdb
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.genruntimeconfig.cache
+C:\Users\Unreal00\source\repos\photoEditor\photoEditor\obj\Debug\netcoreapp3.1\photoEditor.Properties.Resources.resources

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Unreal00\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Unreal00\\.nuget\\packages",
+      "D:\\Program Files\\Microsoft Visual Studio Shared\\NuGetPackages"
+    ]
+  }
+}
